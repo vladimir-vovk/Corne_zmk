@@ -69,9 +69,19 @@
             key-positions = <1 29>;
         };
 
-        j {
+        i {
             bindings = <&sys_reset>;
             key-positions = <30 10>;
+        };
+
+        j {
+            bindings = <&kp LS(N9)>;
+            key-positions = <5 4>;
+        };
+
+        k {
+            bindings = <&kp LS(N0)>;
+            key-positions = <7 6>;
         };
     };
 
